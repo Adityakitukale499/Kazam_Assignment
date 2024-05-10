@@ -33,4 +33,3 @@ To run the project, follow these steps:
 - Install Dependencies: Run `npm install`in the root directory to install both frontend and backend dependencies.
 - Start Development Servers: Run `npm start`. This will start both the frontend development server (using Vite) and the backend server (using Node.js) concurrently.
 - Access the Application: Once the servers are running, you can access the frontend application at `http://localhost:3000`.
-# Kazam_Assignment
